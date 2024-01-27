@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "Code",
+    "Details": "Check the repository for the code to be added and add the code",
+    "DueTime": ""
+  },
+  {  
+	"Name": "Check README",
+    "Details": "Go through the README, read it thoroughly and add the code",
+    "DueTime": ""
+  },
+    {
+    "Name": "Build",
+    "Details": "Build it and remove any errors until it's successfully built",
+    "DueTime": ""
+  }, 
+    {
+    "Name": "Deploy to iOS",
+    "Details": "Deploy it to my own iPhone",
+    "DueTime": ""
+  }, 
+  {
+    "Name": "Commit and Push",
+    "Details": "Commit to part specific branch and push to repo",
+    "DueTime": ""
+  }
+]
