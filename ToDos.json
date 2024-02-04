@@ -2,26 +2,26 @@
   {
     "Name": "Code",
     "Details": "Check the repository for the code to be added and add the code",
-    "DueTime": "First in order; ASAP"
+    "Duetime": "First in order; ASAP"
   },
   {  
-	"Name": "Check README",
+    "Name": "Check README",
     "Details": "Go through the README, read it thoroughly and add the code",
-    "DueTime": "Second in order; ASAP"
+    "Duetime": "Second in order; ASAP"
   },
     {
     "Name": "Build",
     "Details": "Build it and remove any errors until it's successfully built",
-    "DueTime": "Third in order; ASAP"
+    "Duetime": "Third in order; ASAP"
   }, 
     {
     "Name": "Deploy to iOS",
     "Details": "Deploy it to my own iPhone",
-    "DueTime": "Fourth in order; ASAP"
+    "Duetime": "Fourth in order; ASAP"
   }, 
   {
     "Name": "Commit and Push",
     "Details": "Commit to part specific branch and push to repo",
-    "DueTime": "Fifth in order; ASAP"
+    "Duetime": "Fifth in order; ASAP"
   }
 ]
