@@ -2,26 +2,36 @@
   {
     "Name": "Code",
     "Details": "Check the repository for the code to be added and add the code",
-    "Duetime": "First in order; ASAP"
+    "Duetime": "First in order; ASAP",
+    "Latitude": 52.508470, 
+    "Longitude": 13,455261
   },
   {  
     "Name": "Check README",
     "Details": "Go through the README, read it thoroughly and add the code",
-    "Duetime": "Second in order; ASAP"
+    "Duetime": "Second in order; ASAP",
+    "Latitude": 52.508577,
+    "Longitude": 13.455595
   },
     {
     "Name": "Build",
     "Details": "Build it and remove any errors until it's successfully built",
-    "Duetime": "Third in order; ASAP"
+    "Duetime": "Third in order; ASAP",
+    "Latitude": 52.509856,
+    "Longitude": 13.455196
   }, 
     {
     "Name": "Deploy to iOS",
     "Details": "Deploy it to my own iPhone",
-    "Duetime": "Fourth in order; ASAP"
+    "Duetime": "Fourth in order; ASAP",
+    "Latitude": 52.509736,
+    "Longitude": 13.454516
   }, 
   {
     "Name": "Commit and Push",
     "Details": "Commit to part specific branch and push to repo",
-    "Duetime": "Fifth in order; ASAP"
+    "Duetime": "Fifth in order; ASAP",
+    "Latitude": 52.510676,
+    "Longitude":  13.456829
   }
 ]
